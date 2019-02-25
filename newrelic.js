@@ -9,7 +9,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['facerecognitionbrain'],
+  app_name: ['smartbrain'],
   /**
    * Your New Relic license key.
    */
