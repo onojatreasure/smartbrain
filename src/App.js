@@ -1,3 +1,4 @@
+import newRelic from 'newrelic';
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
 import Navigation from './components/Navigation/Navigation';
